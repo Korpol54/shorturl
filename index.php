@@ -2,7 +2,7 @@
     $servername = "localhost";
     $username = "";
     $password = ""; 
-    $dbname = "shorturl2";
+    $dbname = "shorturl_db";
 // Connect Database
     $conn = new mysqli($servername, $username, $password, $dbname);
 
